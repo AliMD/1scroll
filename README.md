@@ -1,3 +1,3 @@
 # 1scroll: Simple cross-browser native OSX Lion scrollbars base on antiscroll
 
-### Under develope.
+[Check Simple Tutorial & Demo](http://jsbin.com/usequl/4/edit)
